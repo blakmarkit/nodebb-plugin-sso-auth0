@@ -16,7 +16,7 @@
 	var constants = Object.freeze({
 		'name': "Auth0",
 		'admin': {
-			'icon': 'fa-star',
+			'icon': 'fa-user',
 			'route': '/plugins/sso-auth0'
 		}
 	});
